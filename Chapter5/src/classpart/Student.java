@@ -22,6 +22,5 @@ public class Student {
 		// 반환형이 없음(void) , 매개변수가 있다 
 		public void setStudentName(String name) {
 			studentName = name;
-			
 		}
 }
