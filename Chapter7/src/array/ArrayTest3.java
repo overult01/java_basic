@@ -17,6 +17,6 @@ public class ArrayTest3 {
 			System.out.println(alphabets[i]);
 		}
 		
-	}
+	} 
 
 }
